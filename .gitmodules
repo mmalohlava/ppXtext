@@ -1,0 +1,3 @@
+[submodule "examples/seven-languages-xtext"]
+	path = examples/seven-languages-xtext
+	url = https://github.com/xtext-dev/seven-languages-xtext.git
